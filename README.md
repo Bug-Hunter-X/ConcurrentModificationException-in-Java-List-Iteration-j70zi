@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Java involving the ConcurrentModificationException. The `ConcurrentModificationExceptionExample.java` file shows the problematic code.  The `ConcurrentModificationExceptionSolution.java` file provides a corrected version.
